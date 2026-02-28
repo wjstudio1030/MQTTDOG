@@ -1,11 +1,14 @@
-[Ll]ibrary/
-[Tt]emp/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-UserSettings/
-MemoryCaptures/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+/[Mm]emoryCaptures/
+/[Vv]s/
+/[Oo]bj/
 
+# 專案檔案
 *.csproj
 *.unityproj
 *.sln
@@ -20,3 +23,6 @@ MemoryCaptures/
 *.mdb
 *.opendb
 *.VC.db
+
+# 之前的誤傳檔案
+MQTTDOG.git/
