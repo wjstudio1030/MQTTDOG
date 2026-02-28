@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collision
+  - building
+  - Obstacle
+  - Explosion
+  - Enemy
+  - Hero
+  - Rain
+  - reload
+  - Skill
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ParticleEffectLayer
+  - Water
+  - UI
+  - VideoLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ParticleEffectLayer
+    uniqueID: 3344585815
+    locked: 0
+  - name: VideoLayer
+    uniqueID: 866440269
+    locked: 0
