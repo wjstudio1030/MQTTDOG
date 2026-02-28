@@ -26,3 +26,8 @@
 
 # 之前的誤傳檔案
 MQTTDOG.git/
+
+.vs/
+.vscode/
+.vsconfig
+/[Oo]bj/
